@@ -1,4 +1,4 @@
-# when you follow the steps below you will got dashboard running with parse server 
+# when you follow the steps below you will get dashboard running with parse server 
 
 ## steps
 - install docker 
