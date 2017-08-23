@@ -7,5 +7,5 @@
 by your machine ip  or  { 127.0.0.1 to run dashboard locally }
 - run this command ` docker build -t "anyname" .`
 - run your docker image 
-- `docker run -p 4040:4040 anyname`
+- `docker run -p 4040:4040 -p 1337:1337 anyname`
 
